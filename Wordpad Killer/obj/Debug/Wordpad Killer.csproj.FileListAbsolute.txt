@@ -1,0 +1,24 @@
+C:\Users\NXsi_qew2\source\repos\Wordpad Killer\Wordpad Killer\bin\Debug\Wordpad Killer.exe.config
+C:\Users\NXsi_qew2\source\repos\Wordpad Killer\Wordpad Killer\bin\Debug\Wordpad Killer.exe
+C:\Users\NXsi_qew2\source\repos\Wordpad Killer\Wordpad Killer\bin\Debug\Wordpad Killer.pdb
+C:\Users\NXsi_qew2\source\repos\Wordpad Killer\Wordpad Killer\bin\Debug\MaterialSkin.dll
+C:\Users\NXsi_qew2\source\repos\Wordpad Killer\Wordpad Killer\bin\Debug\MetroFramework.dll
+C:\Users\NXsi_qew2\source\repos\Wordpad Killer\Wordpad Killer\obj\Debug\Wordpad Killer.csprojAssemblyReference.cache
+C:\Users\NXsi_qew2\source\repos\Wordpad Killer\Wordpad Killer\obj\Debug\Wordpad_Killer.Properties.Resources.resources
+C:\Users\NXsi_qew2\source\repos\Wordpad Killer\Wordpad Killer\obj\Debug\Wordpad Killer.csproj.GenerateResource.cache
+C:\Users\NXsi_qew2\source\repos\Wordpad Killer\Wordpad Killer\obj\Debug\Wordpad Killer.csproj.CopyComplete
+C:\Users\NXsi_qew2\source\repos\Wordpad Killer\Wordpad Killer\obj\Debug\Wordpad Killer.exe
+C:\Users\NXsi_qew2\source\repos\Wordpad Killer\Wordpad Killer\obj\Debug\Wordpad Killer.pdb
+C:\Users\NXsi_qew2\source\repos\Wordpad Killer\Wordpad Killer\obj\Debug\Wordpad_Killer.WordpadKiller.resources
+C:\Users\NXsi_qew2\Desktop\Wordpad Killer\Wordpad Killer\obj\Debug\Wordpad Killer.csprojAssemblyReference.cache
+C:\Users\NXsi_qew2\Desktop\Wordpad Killer\Wordpad Killer\obj\Debug\Wordpad_Killer.WordpadKiller.resources
+C:\Users\NXsi_qew2\Desktop\Wordpad Killer\Wordpad Killer\obj\Debug\Wordpad_Killer.Properties.Resources.resources
+C:\Users\NXsi_qew2\Desktop\Wordpad Killer\Wordpad Killer\obj\Debug\Wordpad Killer.csproj.GenerateResource.cache
+C:\Users\NXsi_qew2\Desktop\Wordpad Killer\Wordpad Killer\obj\Debug\Wordpad Killer.exe
+C:\Users\NXsi_qew2\Desktop\Wordpad Killer\Wordpad Killer\obj\Debug\Wordpad Killer.pdb
+C:\Users\NXsi_qew2\Desktop\Wordpad Killer\Wordpad Killer\bin\Debug\Wordpad Killer.exe.config
+C:\Users\NXsi_qew2\Desktop\Wordpad Killer\Wordpad Killer\bin\Debug\Wordpad Killer.exe
+C:\Users\NXsi_qew2\Desktop\Wordpad Killer\Wordpad Killer\bin\Debug\Wordpad Killer.pdb
+C:\Users\NXsi_qew2\Desktop\Wordpad Killer\Wordpad Killer\bin\Debug\MetroFramework.dll
+C:\Users\NXsi_qew2\Desktop\Wordpad Killer\Wordpad Killer\obj\Debug\Wordpad Killer.csproj.CopyComplete
+C:\Users\NXsi_qew2\Desktop\Wordpad Killer\Wordpad Killer\bin\Debug\ToggleSwitch.dll

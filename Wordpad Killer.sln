@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wordpad Killer", "Wordpad Killer\Wordpad Killer.csproj", "{A729847C-B886-47AF-AB7B-77645914C3CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A729847C-B886-47AF-AB7B-77645914C3CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A729847C-B886-47AF-AB7B-77645914C3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A729847C-B886-47AF-AB7B-77645914C3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A729847C-B886-47AF-AB7B-77645914C3CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D915561-AB11-440F-ABF2-DD33204AC89F}
+	EndGlobalSection
+EndGlobal
